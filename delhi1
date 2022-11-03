@@ -5,3 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/sattuyaduvanshi/rock.git
 git push -u origin main
+Help people interested in this repository understand your project by adding a README.
